@@ -12,4 +12,4 @@ Pearl7 was made to replace the oudated build by win2kuser (Pearl 17.2). This bui
 * The ApplyTheme function and the Theme Engine which handled themes stayed until Pearl 24.0 but it had no UI to control and load themes.
 * Themes were removed in Pearl 19.2 but remained in the code until Pearl 24.0
 * Pearl 27 might move to .NET 8, sadly making it harder for modders to backport it to Windows 7.
-* There were many hidden unused bits of code that were cleaned up and remvoed in Pearl 24
+* There were many hidden unused bits of code that were cleaned up and removed in Pearl 24
